@@ -1,0 +1,5 @@
+aws/.terraform.lock.hcl
+aws/terraform.tfstate*
+
+docker/.terraform.lock.hcl
+docker/terraform.tfstate*
